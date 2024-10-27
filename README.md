@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Estácio d
 
 <h2 align="left">Contatos:</h2>
 
-<img align="right" alt="andreluizgda" src="andreluizgda.jfif" width="200" height="200">
+<img align="right" alt="andreluizgda" src="andreluizgda.jfif" width="150" height="150">
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF&color=0077B3)](mailto:andreluizgomes43@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0077B3)](https://www.linkedin.com/in/andreluizgda)
