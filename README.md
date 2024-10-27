@@ -1,7 +1,12 @@
 ## Olá, eu sou o André Luiz 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, busco aprimorar meu conhecimento em tecnologia e me tornar um profissional na área.
+
+
+
 <h2 align="left">Contatos:</h2>
+
+<img align="right" alt="andreluizgda" src="andreluizgda.jfif" width="200" height="200">
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF&color=0077B3)](mailto:andreluizgomes43@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0077B3)](https://www.linkedin.com/in/andreluizgda)
