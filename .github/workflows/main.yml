@@ -27,8 +27,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color=0077B3  # Cor azul para o tema claro
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&dark_color=005F99  # Cor azul escuro para o tema escuro
+            dist/github-contribution-grid-snake.svg?palette=github-light&color=0077B3,00FF00,FFA500,FF0000  # Azul, verde, laranja, vermelho
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&dark_color=005F99,003366,0000FF  # Azul escuro e outros tons
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
