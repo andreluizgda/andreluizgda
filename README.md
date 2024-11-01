@@ -20,6 +20,18 @@ Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Estácio d
   </a>
 </div>
 
+
+<h2 align="left">Licenças e Certificados:</h2>
+
+CyberSecurity Essentials - Cisco<br>
+CCNA1 - Cisco <br>
+Endpoint Security - Cisco<br>
+<div style="text-align: right;">
+    <img alt="" height="80px" src="CyberEssentials.png" style="margin-left: 10px;">
+    <img alt="" height="80px" src="CCNAITN__1_.png" style="margin-left: 10px;">
+    <img alt="" height="80px" src="EndpointSecurity.png" style="margin-left: 10px;">
+</div>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreluizgda/andreluizgda/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreluizgda/andreluizgda/output/github-contribution-grid-snake-dark.svg">
