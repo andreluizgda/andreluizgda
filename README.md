@@ -26,12 +26,19 @@ Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Estácio d
 CyberSecurity Essentials - Cisco<br>
 CCNA1 - Cisco <br>
 Endpoint Security - Cisco<br>
-<div style="text-align: right;">
-    <img alt="" height="80px" src="CyberEssentials.png" style="margin-left: 10px;">
-    <img alt="" height="80px" src="CCNAITN__1_.png" style="margin-left: 10px;">
-    <img alt="" height="80px" src="EndpointSecurity.png" style="margin-left: 10px;">
-</div>
 
+ <div style="text-align: right;">
+        <a href="https://www.credly.com/badges/17cf60d0-cd87-42dd-aab7-8d1d10225f68/linked_in_profile" target="_blank">
+            <img alt="" height="100px" src="CyberEssentials.png" style="margin-left: 10px;">
+        </a>
+        <a href="https://www.credly.com/badges/287fb322-7d6b-45be-922a-c74f77f96546/linked_in_profile" target="_blank">
+            <img alt="" height="100px" src="CCNAITN__1_.png" style="margin-left: 10px;">
+        </a>
+        <a href="https://www.credly.com/badges/27914abc-92e1-4790-8187-dd0d3ecef77e/public_url" target="_blank">
+            <img alt="" height="100px" src="EndpointSecurity.png" style="margin-left: 10px;">
+        </a>
+    </div>
+    
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreluizgda/andreluizgda/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreluizgda/andreluizgda/output/github-contribution-grid-snake-dark.svg">
